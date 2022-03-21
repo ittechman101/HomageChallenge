@@ -1,6 +1,5 @@
-# HomageChallenge
+# Homage Challenge - @Kyle Wilson 2022/03/19
 Homage Code Challenge for Vaccination Center App in Singapore
-Kyle Wilson - 2022/03/17
 
 ## Challenge Description
 COVID-19 is a global pandemic and to allow country wide activities to resume, vaccinations are introduced to decrease the death rate from the infection.
@@ -12,10 +11,33 @@ The system should support following features:
 - Support CRUD operations for the slot reservation 
 - Avoid double reservation (What happens if the same user books again?) 
 - The solution should handle the resource contention (What happens if 2 different users book the same time slot?)
-
-## How to install & configuration for the backend project (Node Express.js)
+## How to Install backend and frontend?
+_Open two console windows and Go to backend and frontend folders, and then execute following commands._
+```sh
+cd backend or frontend
 npm install
-> `$ npm install`
+npm start
+```
 
-To start 
+> I built both backend and frontend projects and enhanced the front-end UI for more features of this challenge..
+
+## Project architecture for Vaccination Reservation Management System.
+- The backend project was built by Node.js [Express](https://nodejs.org/).
+About the project dependencies, please reference the backend/package.json file.
+Backend provides CRUD API for front-end of the vaccination reservation system.
+
+- The frontend project was built by [React.js](https://reactjs.org/).
+About the project dependencies, please reference the frontend/package.json file.
+
+- Database (SQLite)
+./backend/data/database.sqlite
+
+## How do you do Unit Testing in backend
+> cd backend
+> npm run test
+
+## How to Use
+
+
+
 
