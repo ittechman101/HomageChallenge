@@ -41,13 +41,13 @@ About the project dependencies, please reference the frontend/package.json file.
 And every nurse can supply up to 24 people per a day in each center.
 This means that people can select among 24 time slots per a day if the center has more thann one nurse scheduled on the date.
 
-![alt text](https://github.com/ittechman101/HomageChallenge/tree/main/screenshots/1.png)
-![alt text](https://github.com/ittechman101/HomageChallenge/tree/main/screenshots/2.png)
-![alt text](https://github.com/ittechman101/HomageChallenge/tree/main/screenshots/3.png)
-![alt text](https://github.com/ittechman101/HomageChallenge/tree/main/screenshots/4.png)
-![alt text](https://github.com/ittechman101/HomageChallenge/tree/main/screenshots/5.png)
-![alt text](https://github.com/ittechman101/HomageChallenge/tree/main/screenshots/6.png)
-![alt text](https://github.com/ittechman101/HomageChallenge/tree/main/screenshots/7.png)
+![alt text](https://github.com/ittechman101/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/1.PNG)
+![alt text](https://github.com/ittechman101/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/2.PNG)
+![alt text](https://github.com/ittechman101/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/3.PNG)
+![alt text](https://github.com/ittechman101/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/4.PNG)
+![alt text](https://github.com/ittechman101/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/5.PNG)
+![alt text](https://github.com/ittechman101/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/6.PNG)
+![alt text](https://github.com/ittechman101/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/7.PNG)
 
 
 
