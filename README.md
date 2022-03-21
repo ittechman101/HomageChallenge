@@ -36,7 +36,12 @@ About the project dependencies, please reference the frontend/package.json file.
 > cd backend
 > npm run test
 
-## How to Use
+## How to Use the App
+> Note: We have static vaccination centeres in database.
+And every nurse can supply up to 24 people per a day in each center.
+This means that people can select among 24 time slots per a day if the center has more thann one nurse scheduled on the date.
+
+![](https://github.com/ittechman101/HomageChallenge/tree/main/screenshots/1.png)
 
 
 
